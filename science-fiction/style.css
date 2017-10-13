@@ -154,7 +154,7 @@ h1{
    .footer-nav{
        grid-area: footer;
        width:100%;
-       background-color:black;
+       background-color:#212121;
         display: grid;
         grid-template-columns:1fr 1fr 1fr;
         list-style: none;
