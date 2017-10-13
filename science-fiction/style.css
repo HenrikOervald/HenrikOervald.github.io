@@ -78,6 +78,10 @@ h1{
         background-color:#212121;
   }
 
+  .navigation a{
+      font-family: Aldrich; 
+  }
+
     .header{
         grid-area: header;
         display: grid;
