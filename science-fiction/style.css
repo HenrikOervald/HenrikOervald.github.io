@@ -8,6 +8,7 @@ body{
  background-size: cover;
  min-height: 100%;
  width:100%;
+ margin-top:0px;
 }
 
 
@@ -76,6 +77,10 @@ h1{
         -webkit-padding-start: 0px;
         vertical-align: middle;
         background-color:#212121;
+  }
+
+  .navigation a{
+      font-family: Aldrich; 
   }
 
     .header{
@@ -149,7 +154,7 @@ h1{
    .footer-nav{
        grid-area: footer;
        width:100%;
-       background-color:black;
+       background-color:#212121;
         display: grid;
         grid-template-columns:1fr 1fr 1fr;
         list-style: none;
